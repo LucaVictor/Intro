@@ -6,3 +6,5 @@ bananas
 milk 
 bread
 cereal
+cucumbers
+carrots
